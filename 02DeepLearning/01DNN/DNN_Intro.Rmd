@@ -1,6 +1,6 @@
 ---
 title: "Neural Networks and Deep Learning"
-author: '[Hui Lin](http://scientistcafe.com) @Netlify</br> </br> Ming Li @Amazon'
+author: '[Hui Lin](http://scientistcafe.com) </br> </br> Lead Data Scientist @[Netlify](https://www.netlify.com)'
 date: "`r Sys.Date()`"
 output: 
   slidy_presentation: 
@@ -14,15 +14,15 @@ knitr::opts_chunk$set(echo = FALSE)
 # Types of Neural Network 
 
 <center>
-![](../CNN/images/NN_EXP.png){width=80%}
+![](../02CNN/images/NN_EXP.png){width=80%}
 </center>
 
 # Neural Network Application
 
 | Input (x) | Output (y) | Application |
 | :---: |  :---:  |  :---: |
-| **Home features** | **Price** | **Real Estate** |
-| **Ad, user info** | **Click on an Ad? (0/1)** | **Online Advertising** |
+| Home features | Price | Real Estate |
+| Ad, user info | Click on an Ad? (0/1) | Online Advertising |
 | Image | Object (1, ..., 10) | Photo tagging |
 | Image, Radar info | Position of other cars | Autonomous driving |
 | Audio | Text transcript | Speech recognition |
@@ -178,3 +178,25 @@ $\hat{y}^{(i)} = \sigma(w^Tx^{(i)} + b)$ where $\sigma(z) = \frac{1}{1+e^{-z}}$
     - Run NN with large number of epochs to reach overfitting region through cross validation from training/validation vs. epoch curve
     - Choose the model with number of epochs that have the minimum validation accuracy as the final NN model
     - The optimal number for epoch is determined by when the model is not overfitted (i.e. validation accuracy reaches the best performance)
+    
+# Recap of A Few Key Concepts
+
+- **Data**: Require large well-labeled dataset
+- **Computation**: intensive matrix-matrix operation
+- **Structure** of fully connected feedforward NN
+    - Size of the NN: total number of parameters
+    - Depth: total number of layers (this is where deep learning comes from)
+    - Width of a particular layer: number of nodes (i.e. neurons) in that layer
+- **Activation function**
+    - Intermediate layers
+    - Last layer connecting to outputs
+- **Loss function**
+    - Classification (i.e. categorical response)
+    - Regression (i.e. continuous response)
+- **Optimization methods (SGD)**
+    - Batch size
+    - Learning rate 
+    - Epoch
+- **Deal with overfitting**
+    - Dropout 
+    - Regularization (L1 or L2)

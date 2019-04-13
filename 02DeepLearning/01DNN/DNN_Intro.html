@@ -5,8 +5,8 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
-  <meta name="author" content="Hui Lin @Netlify  Ming Li @Amazon" />
-  <meta name="date" content="2019-03-23" />
+  <meta name="author" content="Hui Lin   Lead Data Scientist @Netlify" />
+  <meta name="date" content="2019-04-12" />
   <meta name="copyright" content="https://course2019.netlify.com" />
   <title>Neural Networks and Deep Learning</title>
   <style type="text/css">code{white-space: pre;}</style>
@@ -17,9 +17,9 @@
 <div class="slide titlepage">
   <h1 class="title">Neural Networks and Deep Learning</h1>
   <p class="author">
-<a href="http://scientistcafe.com">Hui Lin</a> <span class="citation">@Netlify</span></br> </br> Ming Li <span class="citation">@Amazon</span>
+<a href="http://scientistcafe.com">Hui Lin</a> </br> </br> Lead Data Scientist @<a href="https://www.netlify.com">Netlify</a>
   </p>
-  <p class="date">2019-03-23</p>
+  <p class="date">2019-04-12</p>
 </div>
 <div id="types-of-neural-network" class="slide section level1">
 <h1>Types of Neural Network</h1>
@@ -39,14 +39,14 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td align="center"><strong>Home features</strong></td>
-<td align="center"><strong>Price</strong></td>
-<td align="center"><strong>Real Estate</strong></td>
+<td align="center">Home features</td>
+<td align="center">Price</td>
+<td align="center">Real Estate</td>
 </tr>
 <tr class="even">
-<td align="center"><strong>Ad, user info</strong></td>
-<td align="center"><strong>Click on an Ad? (0/1)</strong></td>
-<td align="center"><strong>Online Advertising</strong></td>
+<td align="center">Ad, user info</td>
+<td align="center">Click on an Ad? (0/1)</td>
+<td align="center">Online Advertising</td>
 </tr>
 <tr class="odd">
 <td align="center">Image</td>
@@ -267,6 +267,40 @@ x_{n_{x}}^{(1)} &amp; x_{n_{x}}^{(2)} &amp; \dots &amp; x_{n_{x}}^{(m)}
 <li>Run NN with large number of epochs to reach overfitting region through cross validation from training/validation vs. epoch curve</li>
 <li>Choose the model with number of epochs that have the minimum validation accuracy as the final NN model</li>
 <li>The optimal number for epoch is determined by when the model is not overfitted (i.e. validation accuracy reaches the best performance)</li>
+</ul></li>
+</ul>
+</div>
+<div id="recap-of-a-few-key-concepts" class="slide section level1">
+<h1>Recap of A Few Key Concepts</h1>
+<ul>
+<li><strong>Data</strong>: Require large well-labeled dataset</li>
+<li><strong>Computation</strong>: intensive matrix-matrix operation</li>
+<li><strong>Structure</strong> of fully connected feedforward NN
+<ul>
+<li>Size of the NN: total number of parameters</li>
+<li>Depth: total number of layers (this is where deep learning comes from)</li>
+<li>Width of a particular layer: number of nodes (i.e. neurons) in that layer</li>
+</ul></li>
+<li><strong>Activation function</strong>
+<ul>
+<li>Intermediate layers</li>
+<li>Last layer connecting to outputs</li>
+</ul></li>
+<li><strong>Loss function</strong>
+<ul>
+<li>Classification (i.e. categorical response)</li>
+<li>Regression (i.e. continuous response)</li>
+</ul></li>
+<li><strong>Optimization methods (SGD)</strong>
+<ul>
+<li>Batch size</li>
+<li>Learning rate</li>
+<li>Epoch</li>
+</ul></li>
+<li><strong>Deal with overfitting</strong>
+<ul>
+<li>Dropout</li>
+<li>Regularization (L1 or L2)</li>
 </ul></li>
 </ul>
 </div>

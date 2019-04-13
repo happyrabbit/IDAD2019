@@ -1,10 +1,10 @@
 ---
 title: "Introduction"
-author: '[Hui Lin](http://scientistcafe.com) @Netlify'
+author: '[Hui Lin](http://scientistcafe.com) </br> </br> Lead Data Scientist @[Netlify](https://www.netlify.com)'
 date: "`r Sys.Date()`"
 output:
   slidy_presentation:
-    footer: https://course2019.netlify.com
+    footer: https://idad2019.netlify.com/
   ioslides_presentation: default
   beamer_presentation: default
 ---
@@ -24,11 +24,11 @@ knitr::opts_chunk$set(echo = FALSE)
 | Deep Learning 3| 11:15 - 11:45 |
 | Deep Learning Hands on Session |	11:45 - 12:15 |
 
-# Slides 
+# Course Website
 
 <center>
 <font size = "10">
-https://github.com/happyrabbit/IDAD2019
+https://idad2019.netlify.com/
 </font>
 </center>
 

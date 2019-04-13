@@ -19,7 +19,7 @@ In the past couple of years, deep learning has gained traction in many areas. It
 
 # Some links
 
-- Course homepage: https://course2019.netlify.com/ 
+- Course homepage: https://idad2019.netlify.com/ 
 - [Databrick free community edition account](https://accounts.cloud.databricks.com/registration.html#signup/community)
 - [Perceptron notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2961012104553482/2761297084239405/1806228006848429/latest.html)
 - [Adaline notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2961012104553482/2761297084239426/1806228006848429/latest.html)
