@@ -4,7 +4,7 @@ author: '[Hui Lin](http://scientistcafe.com) </br> </br> Lead Data Scientist @[N
 date: "`r Sys.Date()`"
 output: 
   slidy_presentation: 
-    footer: "https://course2019.netlify.com"
+    footer: "https://idad2019.netlify.com/"
 ---
 
 ```{r setup, include=FALSE}

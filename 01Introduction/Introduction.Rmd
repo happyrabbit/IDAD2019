@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Topic | Time |
 | :---: | :---: |
-| Introduction | 8:15 - 8:45 |
+| Introduction to Data Science | 8:15 - 8:45 |
 | Deep Learning 1 | 8:45 - 10:15 |
 | Break | 10:15 - 10:30 |
 | Deep Learning 2| 10:30 - 11:15 |
@@ -43,13 +43,13 @@ https://idad2019.netlify.com/
 
 #  What is “hard-core pornography”?
 
-- Obscenity case of Jacobellis v. Ohio (1964)
+> Jacobellis v. Ohio, 378 U.S. 184 (1964), was a United States Supreme Court decision handed down in 1964 involving whether the state of Ohio could, consistent with the First Amendment, ban the showing of the Louis Malle film The Lovers (Les Amants), which the state had deemed obscene.
 
 #  What is “hard-core pornography”?
 
 - Obscenity case of Jacobellis v. Ohio (1964)
 
-> “I know it when I see it. (Potter Stewart)”
+> “I know it when I see it.” (Justice Potter Stewart)
 
 # Three tracks of data science
 
