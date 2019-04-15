@@ -19,10 +19,11 @@ knitr::opts_chunk$set(echo = FALSE)
 | :---: | :---: |
 | Introduction to Data Science | 8:15 - 8:45 |
 | Deep Learning 1 | 8:45 - 10:15 |
-| Break | 10:15 - 10:30 |
-| Deep Learning 2| 10:30 - 11:15 |
-| Deep Learning 3| 11:15 - 11:45 |
-| Deep Learning Hands on Session |	11:45 - 12:15 |
+| Deep Learning 1 Hands-on | 10:15 - 10:30 |
+| Break | 10:30 - 10:45 |
+| Deep Learning 2| 10:45 - 11:30 |
+| Deep Learning 3| 11:30 - 12:00 |
+| Deep Learning Hands-on Session | 12:00 - 12:15 |
 
 # Course Website
 
@@ -227,6 +228,5 @@ https://idad2019.netlify.com/
     - [Applied Predictive Modeling](http://appliedpredictivemodeling.com)
     - [R for Marketing Research and Analytics](http://r-marketing.r-forge.r-project.org)
 
-- [Big Data with R](https://www.dropbox.com/sh/8t4k8lgk0su3gjb/AAD4GwWUhUj7bdkmw0j7FPWNa/bigdataclass2018?dl=0)
 
 

@@ -10,12 +10,13 @@ In the past couple of years, deep learning has gained traction in many areas. It
 
 | Topic | Time |
 | :---: | :---: |
-| Introduction | 8:15 - 8:45 |
+| Introduction to Data Science | 8:15 - 8:45 |
 | Deep Learning 1 | 8:45 - 10:15 |
-| Break | 10:15 - 10:30 |
-| Deep Learning 2| 10:30 - 11:15 |
-| Deep Learning 3| 11:15 - 11:45 |
-| Deep Learning Hands on Session |	11:45 - 12:15 |
+| Deep Learning 1 Hands-on | 10:15 - 10:30 |
+| Break | 10:30 - 10:45 |
+| Deep Learning 2| 10:45 - 11:30 |
+| Deep Learning 3| 11:30 - 12:00 |
+| Deep Learning Hands-on Session | 12:00 - 12:15 |
 
 # Some links
 
