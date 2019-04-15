@@ -1,10 +1,12 @@
 # Data Science and Deep Learning for Statisticians
 
-In the past couple of years, deep learning has gained traction in many areas. It becomes an essential tool in data scientist’s toolbox. In this course, students will develop a clear understanding of the big data cloud platform, technical skills in data sciences and machine learning, the motivation and use cases of deep learning through hands-on exercises. We will also cover the “art” part of data science: data science project flow, general pitfalls in data science and machine learning, and soft skills to effectively communicate with business stakeholders. The course is for audience with statistics background. We use real-world data science and machine learning problems to illustrate data science workflow, pitfalls, and soft skills. The hands-on sessions use Databricks community edition cloud platform.
+In the last couple of years, deep learning has gained traction in many areas. It becomes an essential tool in data scientist’s toolbox. In this course, students will develop a clear understanding of the big data cloud platform, technical skills in data sciences and machine learning, the motivation and use cases of deep learning through hands-on exercises.  It will also cover the “art” part of data science: what is data science, how data science project flow, data science types v.s needs, how to organize a data science team and where it belongs in the organization. The course is for audience with a statistical background. The hands-on sessions use Databricks community edition cloud platform.
 
-(1) Big data platform using Spark through R sparklyr package;
-(2) Introduction to Deep Neural Network, Convolutional Neural Network and Recurrent Neural Networks and their applications;
-(3) Deep learning examples using TensorFlow through R keras package.
+(1) Introduction to Deep Neural Network, Convolutional Neural Network and Recurrent Neural Networks and their applications;  
+
+(2) Deep learning examples using TensorFlow through R keras package;  
+
+(3) Big data platform using Spark through R sparklyr package.
 
 # Schedule
 
@@ -12,9 +14,10 @@ In the past couple of years, deep learning has gained traction in many areas. It
 | :---: | :---: |
 | Introduction to Data Science | 8:15 - 8:45 |
 | Deep Learning 1 | 8:45 - 10:15 |
-| Deep Learning 1 Hands-on | 10:15 - 10:30 |
+| Big Data Cloud Platform | 10:15 - 10:30 |
 | Break | 10:30 - 10:45 |
-| Deep Learning 2| 10:45 - 11:30 |
+| Deep Learning 1 Hands-on | 10:45 - 11:00 |
+| Deep Learning 2| 11:00 - 11:30 |
 | Deep Learning 3| 11:30 - 12:00 |
 | Deep Learning Hands-on Session | 12:00 - 12:15 |
 

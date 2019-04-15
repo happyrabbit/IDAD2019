@@ -1,0 +1,15 @@
+---
+title: "Big Data Cloud Platform"
+author: '[Hui Lin](http://scientistcafe.com) </br> </br> Lead Data Scientist @[Netlify](https://www.netlify.com)'
+date: "`r Sys.Date()`"
+output: 
+  slidy_presentation: 
+    footer: "https://idad2019.netlify.com/"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# The New Norm
+

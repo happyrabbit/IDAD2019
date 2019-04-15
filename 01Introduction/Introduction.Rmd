@@ -19,9 +19,10 @@ knitr::opts_chunk$set(echo = FALSE)
 | :---: | :---: |
 | Introduction to Data Science | 8:15 - 8:45 |
 | Deep Learning 1 | 8:45 - 10:15 |
-| Deep Learning 1 Hands-on | 10:15 - 10:30 |
+| Big Data Cloud Platform | 10:15 - 10:30 |
 | Break | 10:30 - 10:45 |
-| Deep Learning 2| 10:45 - 11:30 |
+| Deep Learning 1 Hands-on | 10:45 - 11:00 |
+| Deep Learning 2| 11:00 - 11:30 |
 | Deep Learning 3| 11:30 - 12:00 |
 | Deep Learning Hands-on Session | 12:00 - 12:15 |
 
