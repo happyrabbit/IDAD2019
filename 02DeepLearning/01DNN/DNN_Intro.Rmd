@@ -1,6 +1,6 @@
 ---
 title: "Neural Networks and Deep Learning"
-author: '[Hui Lin](http://scientistcafe.com) </br> </br> Lead Data Scientist @[Netlify](https://www.netlify.com)'
+author: '[Hui Lin](http://scientistcafe.com) @[Netlify](https://www.netlify.com)'
 date: "`r Sys.Date()`"
 output: 
   slidy_presentation: 
