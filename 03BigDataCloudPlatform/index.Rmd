@@ -1,6 +1,6 @@
 ---
 title: "Big Data Cloud Platform"
-author: '[Hui Lin](http://scientistcafe.com) </br> </br> Lead Data Scientist @[Netlify](https://www.netlify.com)'
+author: '[Hui Lin](http://scientistcafe.com) @[Netlify](https://www.netlify.com)'
 date: "`r Sys.Date()`"
 output: 
   slidy_presentation: 
@@ -20,12 +20,13 @@ knitr::opts_chunk$set(echo = FALSE)
 # Some Statistics
 
 - 1 Gitabyte(GB) = 1024 Megabytes(MB) 
+- 1 Terabytes(TB) = 1024 Gitabyte(GB)
 - 1 Petabyte(PB) = 1024 Terabytes(TB) 
 - 1 Exabyte(EB) = 1024 Petabyte(PB) 
 - PC holds 500 GB
 - Netlify
     - 35 GB logs/day (1TB/month, 12TB/year, get to PB in 4 years)
-    - 10 millions sites on our platform
+    - 10 million sites on our platform
 - Google ([live statistics](http://www.internetlivestats.com/google-search-statistics/))
     - over 40,000 search queries/second; over 3.5 billion searches/day; 1.2 trillion searches/year(2012) 
     - 10-15 EB (data of 30 Million PCs combined!)
