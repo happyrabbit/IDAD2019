@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-author: '[Hui Lin](http://scientistcafe.com)'
+author: '[Hui Lin](http://scientistcafe.com) @[Netlify](https://www.netlify.com)'
 date: "`r Sys.Date()`"
 output:
   slidy_presentation:
